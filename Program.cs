@@ -7,6 +7,7 @@ namespace treinamento_git_att
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Hortolandia!");
+            Console.WriteLine("Bye bye Hortolandia!");
         }
     }
 }
