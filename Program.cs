@@ -8,6 +8,8 @@ namespace treinamento_git_att
         {
             Console.WriteLine("Hello Hortolandia!");
             Console.WriteLine("Bye bye Hortolandia!");
+
+            Console.WriteLine("Bye bye Hortolandia!");
         }
     }
 }
